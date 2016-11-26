@@ -1,0 +1,6 @@
+D:\PROJELER\CodeProject\System.IO.Compression.ZipFile\System.IO.Compression.ZipFile\ZipFile.Example\ZipFile.Example\bin\Debug\ZipFile.Example.exe.config
+D:\PROJELER\CodeProject\System.IO.Compression.ZipFile\System.IO.Compression.ZipFile\ZipFile.Example\ZipFile.Example\bin\Debug\ZipFile.Example.exe
+D:\PROJELER\CodeProject\System.IO.Compression.ZipFile\System.IO.Compression.ZipFile\ZipFile.Example\ZipFile.Example\bin\Debug\ZipFile.Example.pdb
+D:\PROJELER\CodeProject\System.IO.Compression.ZipFile\System.IO.Compression.ZipFile\ZipFile.Example\ZipFile.Example\obj\Debug\ZipFile.Example.csprojResolveAssemblyReference.cache
+D:\PROJELER\CodeProject\System.IO.Compression.ZipFile\System.IO.Compression.ZipFile\ZipFile.Example\ZipFile.Example\obj\Debug\ZipFile.Example.exe
+D:\PROJELER\CodeProject\System.IO.Compression.ZipFile\System.IO.Compression.ZipFile\ZipFile.Example\ZipFile.Example\obj\Debug\ZipFile.Example.pdb
